@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+~~~
+{}{img_left}{https://faculty.ustb.edu.cn/_resources/group1/M00/00/07/cxk8bmJWZuOAeJ7oAAHjKQKZGcY245.png}{Jacob Mattingley}{180px}{240px}{}{raw}
+Jimin Wang, Associate Professor, Ph.D. \n
+Academy of Mathematics and Systems Science \n
+Chinese Academy of Sciences \n
+School of Automation, Beijing University of \n
+Science and Technology \n
+Discipline: Control Theory and Control Engineering \n
+Education: Graduate (Postdoctoral) \n
+Email: [jimwang@ustb.edu.cn]
+
+#{{ height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
+#His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+~~~
+
+= Education
+- Shandong University, Operations Research and Control Theory, Doctoral and Graduate, Sep. 2012-Jun. 2018
+
+
+#~~~
+#Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
+#See the [revision.html release notes].
+#~~~
+
+= Employments
+- Associate Professor, School of Automation, Beijing University of Science and Technology, Jul. 2021-present \n
+  
+- University of Science and Technology Beijing, Jan. 2021-Apr. 2024 \n
+  
+- Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Jul. 2018-Dec. 2020 \n
+  
+#- [tables.html Table support].
+#- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
+#  single css file \+ your input file {{&rarr;}} html.
+#- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
+#  independent of jemdoc.
+#- Production of clean,
+#  [http://validator.w3.org/check/referer
+#  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
+#- Minimal bells and whistles, but simple fallback to raw html if required.
+
+= Research Interests
+- Privacy protection and security of networked control systems \n
+
+- Stochastic system \n
+
+- Distributed estimation and convergence control under network security
+
+= Recent Research
+- Identification of complex systems under privacy protection  \n
+
+- Collaborative control of privacy protection under multiple network requirements  \n
+
+- Distributed collaborative control and optimization under privacy protection
+

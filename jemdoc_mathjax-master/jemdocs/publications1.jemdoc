@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU2}{publications1.html}, showsource, addcss{table}
+= 科学研究
+
+== 科研项目
+- 国家自然科学基金项目, 量化系统的分布式辨识与适应控制， 参加；
+- 国家重点研发计划，不确定性系统智能控制的基础数学理论与方法，参加；
+- 中国博士后科学基金会，网络环境下非线性广义半马尔科夫跳变系统的控制，主持；
+- 网络安全下的分布式估计与趋同控制；
+- （包干制）非线性奇异半马尔科夫跳变系统的分析与安全控制；
+
+== 论文成果
+. *Jimin Wang*, Jieming Ke and Ji-Feng Zhang, Differentially private bipartite consensus over signed \n
+networks with time-varying noises. *IEEE Transactions on Automatic Control*. DOI: \n
+10.1109/TAC.2024.3351869, 2024. 长文
+
+. *Jimin Wang*, Ji-Feng Zhang and Xingkang He, Differentially private distributed algorithms for \n
+stochastic aggregative games, *Automatica*, Vol. 142, Article 110440, 2022. 长文
+
+. Xiao-Kang Liu, Ji-Feng Zhang and *Jimin Wang*, Differentially private consensus algorithm for \n
+continuous-time heterogeneous multi-agent systems, *Automatica*, vol.122, 109283, 2020. 长文
+
+. 谭建伟、*王继民*、张纪峰，多方ARX系统的协作安全辨识——一种基于门限Paillier密码体制的最小二乘 \n
+辨识方法 *《中国科学: 信息科学》*, 第53卷, 第12期, 2472-2492，2023.\n
+
+. Jieming Ke, *Jimin Wang* and Ji-Feng Zhang, Differentiated output-based privacy-preserving average \n
+consensus, *IEEE Control Systems Letters*, Vol. 7, 1369-1374, 2023.
+
+. *Jimin Wang*, Ji-Feng Zhang and Xiao-Kang Liu, Differentially private resilient distributed cooperative \n
+online estimation over digraphs, *Int. J. of Robust and Nonlinear Control*, Vol.32, No.15, 8670-8688, \n
+2022.
+
+. Jifeng Zhang, Jianwei Tan and *Jimin Wang*, Privacy security in control systems, *Science China \n
+Information Sciences*, Vol. 64, Article 176201, 2021.
+
+. *Jimin Wang*, Jianwei Tan and Ji-Feng Zhang, Differentially private distributed parameter estimation, \n
+*Journal of Systems Science and Complexity*, DOI: 10.1007/s11424-022-2012-9, 2022.
+
+. *Jimin Wang*, Shuping Ma, Chenghui Zhang and Minyue Fu, Finite-time H-infinity filtering for \n
+nonlinear singular systems with nonhomogeneous Markov jumps, *IEEE Transactions on Cybernetics*, \n
+vol.49, no.6, pp. 2133 - 2143, 2019.
+
+. *Jimin Wang*, Shuping Ma, Chenghui Zhang and Minyue Fu, H-infinity state estimation via \n
+asynchronous filtering for descriptor Markov jump systems with packet losses, *Signal Processing*, \n
+vol.154, pp.159-167, 2019.
+
+. *Jimin Wang*, Shuping Ma, Chenghui Zhang and Minyue Fu, Observer-based control for singular \n
+nonhomogeneous Markov jump systems with packet losses, *Journal of the Franklin Institute*, vol.355, \n
+pp.6617–6637, 2018.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Finite-time H-infinity control for T-S fuzzy \n
+descriptor semi Markov jump systems via static output Feedback, *Fuzzy Sets and Systems*, vol.365, \n
+pp.60-80, 2019.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Resilient estimation for T-S fuzzydescriptor \n
+systems with semi-Markov jumps and time-varying delay, *Information Sciences*, vol.430-431, pp.104- \n
+126, 2018.
+
+. *Jimin Wang* and Shuping Ma, Resilient dynamic output feedback control for discrete-time \n
+descriptor switching Markov jump systems, *Nonlinear Dynamics*, vol.93, no.4, pp. 2233-2247, 2018.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Finite-time H_infinity filtering for nonlinear \n
+continuous- time singular semi-Markov jump systems, *Asian Journal of Control*, vol. 21, no.3, pp.1-11, \n
+2019.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Finite-time stabilization for nonlineardiscrete-time \n
+singular Markov jump systems with piecewise-constant transitionprobabilities subject to average dwell \n
+time, *Journal of the Franklin Institute*, vol. 54, pp.2102–2124, 2017.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Stability analysis and stabilization for nonlinear \n
+continuous-time descriptor semi-Markov jump systems, *AppliedMathematics and Computation*, vol. \n
+279, pp.90-102, 2016.
+
+== 专利软著
+- *王继民*,一种基于矩阵补全的隐私数据传输方法及系统.
+- 张纪峰,基于秘密共享机制的分布式支持向量机训练方法及系统.
+- 张纪峰、*王继民*、赵延龙、郭金，一种面向智能电网的差分隐私分布式随机优化方法及系统，授权发 \n
+明专利:ZL202310361388.7.2023.
+- 张纪峰、*王继民*、郭金、谭建伟、赵延龙，基于最小二乘估计和隐私保护的冠心病研究方法和系统 \n
+发明专利，中国，授权专利号:ZL202211620092.4,授权公告日:2023年6月30日.
+- 张纪峰，*王继民*，康宇，赵延龙，吕文君.面向隐私保护的分布式估计方法、系统与可读存储介质.发 \n
+明专利，中国，授权专利号:ZL202011058981,授权公告日:2021年1月12日.

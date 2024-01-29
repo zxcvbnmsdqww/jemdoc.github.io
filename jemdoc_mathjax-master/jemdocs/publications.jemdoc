@@ -1,0 +1,96 @@
+# jemdoc: menu{MENU}{publications.html}
+= Scientific Research
+
+== Research Projects
+- Participate, National Natural Science Foundation project, distributed identification and adaptive  \n
+control of quantitative systems;
+
+- Participate, National Key R&D Program, Basic Mathematical Theory and Methods for Intelligent Control \n
+of Uncertainty Systems;
+
+- Host, China Postdoctoral Science Foundation, Control of Nonlinear Generalized Semi Markov Jump \n
+Systems in Network Environment;
+
+- Distributed estimation and convergence control under network security;
+
+- Analysis and Safety Control of Nonlinear Singular Semi Markov Jump Systems (Contract System);
+
+== Journals
+. *Jimin Wang*, Jieming Ke and Ji-Feng Zhang, Differentially private bipartite consensus over signed \n
+networks with time-varying noises. *IEEE Transactions on Automatic Control*. DOI: \n
+10.1109/TAC.2024.3351869, 2024. 长文
+
+. *Jimin Wang*, Ji-Feng Zhang and Xingkang He, Differentially private distributed algorithms for \n
+stochastic aggregative games, *Automatica*, Vol. 142, Article 110440, 2022. 长文
+
+. Xiao-Kang Liu, Ji-Feng Zhang and *Jimin Wang*, Differentially private consensus algorithm for \n
+continuous-time heterogeneous multi-agent systems, *Automatica*, vol.122, 109283, 2020. 长文
+
+. Jianwei Tan, *Jimin Wang*, Ji-Feng Zhang, Collaborative Security Identification of Multi party ARX \n
+Systems: A Least Squares Identification Method Based on Threshold Paillier Cryptosystem, *Chinese  \n
+Science: Information Science*, Volume 53, Issue 12, 2472-2492, 2023. 
+
+. Jieming Ke, *Jimin Wang* and Ji-Feng Zhang, Differentiated output-based privacy-preserving average \n
+consensus, *IEEE Control Systems Letters*, Vol. 7, 1369-1374, 2023.
+
+. *Jimin Wang*, Ji-Feng Zhang and Xiao-Kang Liu, Differentially private resilient distributed cooperative \n
+online estimation over digraphs, *Int. J. of Robust and Nonlinear Control*, Vol.32, No.15, 8670-8688, \n
+2022.
+
+. Ji-feng Zhang, Jianwei Tan and *Jimin Wang*, Privacy security in control systems, *Science China \n
+Information Sciences*, Vol. 64, Article 176201, 2021.
+
+. *Jimin Wang*, Jianwei Tan and Ji-Feng Zhang, Differentially private distributed parameter estimation, \n
+*Journal of Systems Science and Complexity*, DOI: 10.1007/s11424-022-2012-9, 2022.
+
+. *Jimin Wang*, Shuping Ma, Chenghui Zhang and Minyue Fu, Finite-time H-infinity filtering for \n
+nonlinear singular systems with nonhomogeneous Markov jumps, *IEEE Transactions on Cybernetics*, \n
+vol.49, no.6, pp. 2133 - 2143, 2019.
+
+. *Jimin Wang*, Shuping Ma, Chenghui Zhang and Minyue Fu, H-infinity state estimation via \n
+asynchronous filtering for descriptor Markov jump systems with packet losses, *Signal Processing*, \n
+vol.154, pp.159-167, 2019.
+
+. *Jimin Wang*, Shuping Ma, Chenghui Zhang and Minyue Fu, Observer-based control for singular \n
+nonhomogeneous Markov jump systems with packet losses, *Journal of the Franklin Institute*, vol.355, \n
+pp.6617–6637, 2018.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Finite-time H-infinity control for T-S fuzzy \n
+descriptor semi Markov jump systems via static output Feedback, *Fuzzy Sets and Systems*, vol.365, \n
+pp.60-80, 2019.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Resilient estimation for T-S fuzzydescriptor \n
+systems with semi-Markov jumps and time-varying delay, *Information Sciences*, vol.430-431, pp.104- \n
+126, 2018.
+
+. *Jimin Wang* and Shuping Ma, Resilient dynamic output feedback control for discrete-time \n
+descriptor switching Markov jump systems, *Nonlinear Dynamics*, vol.93, no.4, pp. 2233-2247, 2018.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Finite-time H_infinity filtering for nonlinear \n
+continuous- time singular semi-Markov jump systems, *Asian Journal of Control*, vol. 21, no.3, pp.1-11, \n
+2019.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Finite-time stabilization for nonlineardiscrete-time \n
+singular Markov jump systems with piecewise-constant transitionprobabilities subject to average dwell \n
+time, *Journal of the Franklin Institute*, vol. 54, pp.2102–2124, 2017.
+
+. *Jimin Wang*, Shuping Ma and Chenghui Zhang, Stability analysis and stabilization for nonlinear \n
+continuous-time descriptor semi-Markov jump systems, *AppliedMathematics and Computation*, vol. \n
+279, pp.90-102, 2016.
+
+== Patent Soft Work
+- *Jimin Wang*, A privacy data transmission method and system based on matrix completion.
+
+- Ji-feng Zhang, A training method and system for distributed support vector machines based on secret \n
+sharing mechanism.
+
+- Ji-feng Zhang, *Jimin Wang*, Yanlong Zhao, Jin Guo, A differential privacy distributed random  \n
+optimization method and system for smart grids, authorized invention patent: ZL202310361388.7.2023.
+
+- Ji-feng Zhang, *Jimin Wang*, Jin Guo, Jianwei Tan, Yanlong Zhao, Invention patent for coronary heart \n
+disease research method and system based on least squares estimation and privacy protection, China, \n
+authorized patent number: ZL202211620092.4, authorized announcement date: June 30, 2023. 
+
+- Ji-feng Zhang, *Jimin Wang*, Yu Kang, Yanlong Zhao, Wenjun Lv. Distributed estimation methods, systems, \n
+and readable storage media for privacy protection. Invention patent, China, authorized patent number: \n
+ZL202011058981, authorized announcement date: January 12, 2021.
